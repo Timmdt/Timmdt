@@ -40,11 +40,11 @@ I'm an **AI-focused developer** and **Contributor & Co-Owner of rumahl**. I enjo
 
 **EVA** is an animated desktop companion built with Python. The goal is to turn it into an intelligent, voice-enabled and proactive AI agent that feels more like a digital companion than a traditional application.
 
-- 🎞️ Smooth sprite animation and desktop movement
-- 🧠 Intelligent and agent-driven behavior
-- 🎙️ Voice interaction
-- 💾 Persistent personality and state
-- ✨ A polished, playful desktop experience
+🧠 Intelligent and agent-driven behavior
+🎙️ Voice interaction
+💾 Persistent personality and state
+🎭 A funny and playful agent that interacts with your computer
+✨ A polished, playful desktop experience
 
 ## 📚 Currently Exploring
 
