@@ -1,76 +1,64 @@
-<div align="center">
-  <img src="assets/readme/hero.svg" alt="Developer building AI experiences with Python and TypeScript" width="100%" />
+# Hi, I'm Tim! 👋
 
-  <br />
+I'm an **AI-focused developer** and **Contributor & Co-Owner of rumahl**. I enjoy building intelligent tools, creative applications and modern web experiences with clean code and a strong visual identity.
 
-  <img src="https://img.shields.io/badge/AI%20BUILDER-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Builder" />
-  <img src="https://img.shields.io/badge/OPEN%20TO%20IDEAS-06B6D4?style=for-the-badge&logo=sparkles&logoColor=white" alt="Open to ideas" />
-  <img src="https://img.shields.io/badge/CURRENTLY%20LEARNING-RUST-F97316?style=for-the-badge&logo=rust&logoColor=white" alt="Currently learning Rust" />
-</div>
+## 🚀 About Me
 
-## Hey there 👋
+- 🏠 **Contributor & Co-Owner of rumahl**
+- 🤖 **AI Development:** Building intelligent tools, agents and automations
+- 🐍 **Main Language:** Python for AI, automation and creative projects
+- ⚡ **Frontend:** TypeScript, JavaScript, HTML and CSS
+- 🐘 **Backend:** PHP and Python
+- 🦀 **Currently Learning:** Rust and systems programming
+- 🎨 **UI/UX:** Creating clean, responsive and expressive interfaces
+- 🖥️ **Current Project:** EVA, an animated AI desktop companion
 
-I am a developer who loves turning ambitious ideas into playful, useful software. My main playground is **AI development with Python and TypeScript**, backed by strong **CSS** and **PHP** skills. Right now, I am adding **Rust** to the toolkit—one ownership rule at a time.
+## 🛠️ Languages & Tools
 
-```ts
-const developer = {
-  focus: ["Artificial Intelligence", "Creative Tools", "Web Experiences"],
-  buildingWith: ["Python", "TypeScript"],
-  confidentIn: ["CSS", "PHP"],
-  learningNow: "Rust",
-  philosophy: "Make it smart. Make it useful. Make it feel alive."
-};
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,rust,php,html,css&theme=dark" alt="Python, TypeScript, JavaScript, Rust, PHP, HTML and CSS" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
+</p>
+
+- **AI & Automation:** Python, intelligent agents and experimental AI workflows
+- **Web Development:** TypeScript, JavaScript, PHP, HTML and CSS
+- **Tools:** Git, GitHub and Visual Studio Code
+- **Learning:** Rust, performance and memory-safe systems
+
+## 🤖 What I Build
+
+- AI-powered tools and assistants
+- Automation workflows and intelligent agents
+- Modern, responsive web experiences
+- Creative applications with personality
+- Experiments that connect design, code and artificial intelligence
+
+## 🛸 Current Project — EVA Desktop Pet
+
+**EVA** is an animated desktop companion built with Python. The goal is to turn it into an intelligent, voice-enabled and proactive AI agent that feels more like a digital companion than a traditional application.
+
+- 🎞️ Smooth sprite animation and desktop movement
+- 🧠 Intelligent and agent-driven behavior
+- 🎙️ Voice interaction
+- 💾 Persistent personality and state
+- ✨ A polished, playful desktop experience
+
+## 📚 Currently Exploring
+
+```rust
+fn current_goal() {
+    println!("Learning Rust and building smarter software.");
+}
 ```
 
-## Tech constellation
+> I like software that does more than work — it should have character.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,rust,css,php,html,git,github&theme=dark&perline=8" alt="Python, TypeScript, Rust, CSS, PHP, HTML, Git and GitHub" />
-</div>
+---
 
-| Area | What I use |
-|:--|:--|
-| **AI & automation** | Python, intelligent agents, experimental AI workflows |
-| **Modern development** | TypeScript, clean tooling, interactive applications |
-| **Web craft** | CSS, PHP, HTML, responsive and expressive interfaces |
-| **Currently exploring** | Rust, performance, safety and systems thinking |
-
-## Current experiment — EVA Desktop Pet
-
-<table>
-  <tr>
-    <td width="190" align="center">
-      <img src="assets/frames/idle_01.png" width="150" alt="EVA, an animated desktop companion" />
-    </td>
-    <td>
-      <h3>A tiny companion with big ambitions</h3>
-      <p>
-        EVA is an animated desktop pet built in Python. The goal is to grow it from a charming on-screen companion into an intelligent, voice-enabled and proactive AI agent.
-      </p>
-      <p><strong>Status:</strong> early development · animation system in progress · AI modes planned</p>
-    </td>
-  </tr>
-</table>
-
-### On the roadmap
-
-- Smooth sprite animation and natural desktop movement
-- Intelligent and agent-driven behavior
-- Voice interaction and proactive assistance
-- Persistent personality, settings and state
-- A polished experience that feels more like a companion than an app
-
-## What drives me
-
-> I like software that does more than work—it should have character.
-
-I am especially interested in projects where **AI, creative coding and thoughtful design** meet. Whether it is a smart assistant, an expressive interface or a strange little desktop creature, I enjoy making technology feel more human.
-
-<div align="center">
-  <br />
-  <strong>Let’s build something intelligent, useful and a little unexpected.</strong>
-  <br /><br />
-  <img src="https://img.shields.io/badge/BUILT%20WITH-CURIOSITY-111827?style=flat-square" alt="Built with curiosity" />
-  <img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-7C2D12?style=flat-square" alt="Powered by coffee" />
-</div>
+<p align="center">
+  <b>Building intelligent, useful and slightly unexpected things.</b>
+</p>
 
